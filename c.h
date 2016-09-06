@@ -1,4 +1,4 @@
-package com.okdme.menoma3ay.services;
+package com.first.ihack102;
 
 import android.app.Service;
 import android.content.ClipData;
